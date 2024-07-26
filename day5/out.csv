@@ -1,0 +1,55 @@
+,veg_id,veg_name,whole_price,retail_price,shop_mall_price,units
+0,onionbig,Onion Big,45,52 - 57,54 - 74,1kg
+1,onionsmall,Onion Small,58,67 - 74,70 - 96,1kg
+2,tomato,Tomato,52,60 - 66,62 - 86,1kg
+3,greenchili,Green Chilli,52,60 - 66,62 - 86,1kg
+4,beetroot,Beetroot,36,41 - 46,43 - 59,1kg
+5,potato,Potato,44,51 - 56,53 - 73,1kg
+6,plantain,Raw Banana (Plantain),11,13 - 14,13 - 18,1kg
+7,amaranthleaves,Amaranth Leaves,15,17 - 19,18 - 25,1kg
+8,amla,Amla,60,69 - 76,72 - 99,1kg
+9,ashgourd,Ash gourd,24,28 - 30,29 - 40,1kg
+10,babycorn,Baby Corn,48,55 - 61,58 - 79,1kg
+11,bananaflower,Banana Flower,16,18 - 20,19 - 26,1kg
+12,capsicum,Capsicum,42,48 - 53,50 - 69,1kg
+13,bittergourd,Bitter Gourd,35,40 - 44,42 - 58,1kg
+14,bottlegourd,Bottle Gourd,34,39 - 43,41 - 56,1kg
+15,butterbeans,Butter Beans,52,60 - 66,62 - 86,1kg
+16,broadbeans,Broad Beans,53,61 - 67,64 - 87,1kg
+17,cabbage,Cabbage,33,38 - 42,40 - 54,1kg
+18,carrot,Carrot,47,54 - 60,56 - 78,1kg
+19,cauliflower,Cauliflower,28,32 - 36,34 - 46,1kg
+20,clusterbeans,Cluster beans,42,48 - 53,50 - 69,1kg
+21,coconut,Coconut,37,43 - 47,44 - 61,1kg
+22,colocasialeaves,Colocasia Leaves,16,18 - 20,19 - 26,1kg
+23,colocasia,Colocasia,28,32 - 36,34 - 46,1kg
+24,corianderleaves,Coriander Leaves,6,7 - 8,7 - 10,1kg
+25,corn,Corn,34,39 - 43,41 - 56,1kg
+26,cucumber,Cucumber,28,32 - 36,34 - 46,1kg
+27,curryleaves,Curry Leaves,30,35 - 38,36 - 50,1kg
+28,dillleaves,Dill Leaves,15,17 - 19,18 - 25,1kg
+29,drumsticks,Drumsticks,120,138 - 152,144 - 198,1kg
+30,brinjal,Brinjal,33,38 - 42,40 - 54,1kg
+31,brinjalbig,Brinjal (Big),34,39 - 43,41 - 56,1kg
+32,elephantyam,Elephant Yam,38,44 - 48,46 - 63,1kg
+33,fenugreekleaves,Fenugreek Leaves,11,13 - 14,13 - 18,1kg
+34,frenchbeans,French Beans,71,82 - 90,85 - 117,1kg
+35,garlic,Garlic,201,231 - 255,241 - 332,1kg
+36,ginger,Ginger,118,136 - 150,142 - 195,1kg
+37,oniongreen,Onion Green,41,47 - 52,49 - 68,1kg
+38,greenpeas,Green Peas,40,46 - 51,48 - 66,1kg
+39,ivygourd,Ivy Gourd,26,30 - 33,31 - 43,1kg
+40,lemon,Lemon (Lime),97,112 - 123,116 - 160,1kg
+41,mangoraw,Mango Raw,39,45 - 50,47 - 64,1kg
+42,mintleaves,Mint Leaves,5,6 - 6,6 - 8,1kg
+43,mushroom,Mushroom,85,98 - 108,102 - 140,1kg
+44,mustardleaves,Mustard Leaves,15,17 - 19,18 - 25,1kg
+45,ladiesfinger,Ladies Finger,40,46 - 51,48 - 66,1kg
+46,pumpkin,Pumpkin,20,23 - 25,24 - 33,1kg
+47,radish,Radish,37,43 - 47,44 - 61,1kg
+48,ridgegourd,Ridge Gourd,38,44 - 48,46 - 63,1kg
+49,shallot,Shallot (Pearl Onion),33,38 - 42,40 - 54,1kg
+50,snakegourd,Snake Gourd,41,47 - 52,49 - 68,1kg
+51,sorrelleaves,Sorrel Leaves,16,18 - 20,19 - 26,1kg
+52,spinach,Spinach,14,16 - 18,17 - 23,1kg
+53,sweetpotato,Sweet Potato,37,43 - 47,44 - 61,1kg
